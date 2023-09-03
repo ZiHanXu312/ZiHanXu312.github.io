@@ -19,7 +19,6 @@ header: fasle
 - 2015.9~2018.7 金华市外国语学校
 - 2018.9~2021.7   杭州学军中学
 - 2021.9~ 至今    中国科学技术大学
-- 11
 {% endfolding %}
 
 {% folding child:codeblock open:false color:yellow 我的成绩 %}{% folding child:codeblock open:false color:yellow 危险 请不要打开这个 %}{% folding child:codeblock open:false color:yellow 你真的想看吗？ %}{% folding child:codeblock open:false color:yellow 你确定吗？ %}{% folding child:codeblock open:false color:yellow 再问一次，你真的想看吗？ %}{% folding child:codeblock open:false color:yellow 你真的确定吗？要不还是算了吧！ %}
