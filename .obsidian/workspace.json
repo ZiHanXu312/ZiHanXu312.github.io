@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/links/index.md",
+                "file": "source/more/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/links/index.md"
+                "file": "source/more/index.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/links/index.md",
+                "file": "source/more/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/links/index.md",
+                "file": "source/more/index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,10 +203,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e1ffed60ded6fa3c",
+  "active": "3723e5f3d1d9f57a",
   "lastOpenFiles": [
-    "source/_posts/未命名.md",
     "source/links/index.md",
+    "source/_posts/未命名.md",
     "db.json",
     "public/assets/2.png",
     "public/assets/1.png",
