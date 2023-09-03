@@ -1,0 +1,34 @@
+# 不要直接在这里写，要复制到 blog/source/_data/links.yml 位置
+'示例':
+  - title: XAOXUU
+    avatar: https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png
+    url: https://xaoxuu.com
+    screenshot: https://bu.dusays.com/2022/10/23/63542895cfd29.png
+    description:
+
+'博客':
+    - title: Hexo博客官网
+      url: https://hexo.io/zh-cn/
+      screenshot: https://img1.imgtp.com/2023/08/18/jcV8LizZ.png
+      avatar: https://image-bed-1316467115.cos.ap-beijing.myqcloud.com/favicon-hexo.png
+      description: 简洁且高效的博客框架
+    - title: Stellar主题
+      url: https://xaoxuu.com/wiki/stellar/
+      screenshot: https://img1.imgtp.com/2023/08/18/w5Jim2I7.png
+      avatar: https://img1.imgtp.com/2023/08/18/cSCfiyxE.png
+      description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题
+    - title: Particlex主题
+      url: https://argvchs.github.io/
+      screenshot: https://img1.imgtp.com/2023/08/18/E5aNxNQf.png
+      avatar: https://img1.imgtp.com/2023/08/18/HzVfOjCM.png
+      description: 之前用过的主题
+    - title: Butterfly主题
+      url: https://github.com/jerryc127/hexo-theme-butterfly
+      screenshot: https://img1.imgtp.com/2023/08/18/wh26SYo9.png
+      avatar: https://img1.imgtp.com/2023/08/18/enjvte6m.png
+      description: 科大好多人用
+
+
+
+
+

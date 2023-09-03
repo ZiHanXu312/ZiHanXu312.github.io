@@ -1,0 +1,25 @@
+Ultracold Atomic Physics:  
+  name: Ultracold Atomic Physics
+  title: Ultracold Atomic Physics
+  subtitle: 'Physics'  
+  tags: Atomic Physics  
+  cover: false  # 是否显示封面
+  logo:  
+    src: 
+    small: 112px  
+    large: 240px  
+  description: 这是我结合BEC in Dilute Gases,Physics of Ultracold Quantum Gases,Ultracold Atomic Physics这三本书整理的读书笔记。
+  repo: xaoxuu/hexo-theme-stellar  
+  comment_title: '评论区仅供交流，有问题请提[issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'  
+  giscus:  
+    data-repo: xaoxuu/hexo-theme-stellar  
+    data-mapping: number  
+    data-term: 226
+    
+ #sidebar: [toc] # 侧边栏的自定义
+ 
+  #sections:  # toc栏的自定义
+   # #  '快速开始': [0, 99]  
+    #'基本使用': [100, 199]  
+   #  '文档系统': [200, 299]  
+     #'进阶设定': [900, 999]

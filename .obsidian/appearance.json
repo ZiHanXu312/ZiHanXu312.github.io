@@ -1,0 +1,11 @@
+{
+  "accentColor": "#7b34e5",
+  "textFontFamily": "楷体",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "楷体",
+  "translucency": true,
+  "nativeMenus": true,
+  "monospaceFontFamily": "楷体"
+}

@@ -1,0 +1,22 @@
+{
+  "spellcheckLanguages": null,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  },
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "scaffolds/",
+    "themes/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source"
+}

@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "391d72b1dc315d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f22fcc03156c740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3723e5f3d1d9f57a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/links/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "771fbc8ad30c57f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7746bf42f28ff21c",
+        "type": "tabs",
+        "dimension": 55.602536997885835,
+        "children": [
+          {
+            "id": "4b1a6510d4fde014",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "300844c15978e474",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26d3e98ac7da4ff5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c986992b00d5d1ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d019c9f91787520f",
+        "type": "tabs",
+        "dimension": 44.397463002114165,
+        "children": [
+          {
+            "id": "7941a31efe30b882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/links/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5110321044922
+  },
+  "right": {
+    "id": "b2e4dcb96034e2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "128baa30038fac1a",
+        "type": "tabs",
+        "dimension": 38.33157338965153,
+        "children": [
+          {
+            "id": "578e6e8d62b8b623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/links/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd434ae6497cac24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/links/index.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "914700d491f40bac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1ffed60ded6fa3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9e30f08dcbcc4857",
+        "type": "tabs",
+        "dimension": 31.25659978880676,
+        "children": [
+          {
+            "id": "ca9603c565072bb7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0efd1f3a44a954d6",
+        "type": "tabs",
+        "dimension": 30.41182682154171,
+        "children": [
+          {
+            "id": "3d5713e68970763e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "e1ffed60ded6fa3c",
+  "lastOpenFiles": [
+    "source/_posts/未命名.md",
+    "source/links/index.md",
+    "db.json",
+    "public/assets/2.png",
+    "public/assets/1.png",
+    "public/assets",
+    "public/tags/try/index.html",
+    "public/tags/try",
+    "public/2023/09/08/尝试/index.html",
+    "public/2023/08/12/hello-world/index.html",
+    "public/2023/09/08/尝试",
+    "public/2023/08/12/hello-world",
+    "public/2023/09/08",
+    "public/2023/08/12",
+    "public/wiki/Ultracold Atomic Physics/photo/1.jpg",
+    "source/_posts/尝试.md",
+    "source/_posts/hello-world.md",
+    "source/assets/2.png",
+    "source/assets/1.png",
+    "scaffolds/post.md",
+    "node_modules/expand-range/node_modules/fill-range/README.md",
+    "DAIRY/2023-08-24.md",
+    "Excalidraw/Drawing 2023-09-03 12.18.56.excalidraw.md",
+    "DAIRY/2023-08-30.md",
+    "旋转台/Rotating Stage.md",
+    "线圈定标/线圈标定.md",
+    "DAIRY/2023-08-31.md",
+    "旋转台/Rotary Stage.md",
+    "Attachments/Rotary Stage_image_7.png",
+    "Attachments/Rotary Stage_image_6.png",
+    "Attachments/Rotary Stage_image_5.png",
+    "Attachments/Rotary Stage_image_4.png",
+    "Attachments/Rotary Stage_image_3.png",
+    "Attachments/Rotary Stage_image_1.md",
+    "DAIRY/2023-08-29.md",
+    "DAIRY/2023-08-28.md",
+    "Excalidraw/Drawing 2023-08-24 23.34.11.excalidraw.md",
+    "Attachments/Rotating Stage_image_1.md",
+    "DAIRY/2023-08-11.md",
+    "DAIRY/2023-08-09.md",
+    "DAIRY/2023-08-08.md",
+    "线圈定标/科学腔线圈磁场计算.md",
+    "线圈定标/线圈测试方案.md",
+    "线圈定标/单线圈磁场标定.md",
+    "DAIRY/2023-08-25.md",
+    "DAIRY/2023-08-23.md",
+    "未命名.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Attachments/未命名.canvas"
+  ]
+}
