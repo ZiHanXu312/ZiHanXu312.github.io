@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-08T11:56:35.418Z</updated>
+  <updated>2023-09-08T12:10:27.390Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>再来</title>
+    <link href="http://example.com/2023/09/08/%E6%9C%AA%E5%91%BD%E5%90%8D/"/>
+    <id>http://example.com/2023/09/08/%E6%9C%AA%E5%91%BD%E5%90%8D/</id>
+    <published>2023-09-08T12:09:37.560Z</published>
+    <updated>2023-09-08T12:10:27.390Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>尝试</title>
-    <link href="http://example.com/2023/09/08/%E5%B0%9D%E8%AF%95/"/>
-    <id>http://example.com/2023/09/08/%E5%B0%9D%E8%AF%95/</id>
+    <link href="http://example.com/2023/09/08/%E5%B0%9D%E8%AF%95111/"/>
+    <id>http://example.com/2023/09/08/%E5%B0%9D%E8%AF%95111/</id>
     <published>2023-09-07T16:00:00.000Z</published>
-    <updated>2023-09-08T11:56:35.418Z</updated>
+    <updated>2023-09-08T12:06:26.602Z</updated>
     
-    <content type="html"><![CDATA[<span id="more"></span><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>TRY  111</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;h1 id=&quot;图片&quot;&gt;&lt;a href=&quot;#图片&quot; class=&quot;headerlink&quot; title=&quot;图片&quot;&gt;&lt;/a&gt;图片&lt;/h1&gt;&lt;p&gt;TRY  111&lt;/p&gt;
-</summary>
-      
+    <content type="html"><![CDATA[<span id="more"></span><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>TRY  111  222  </p>]]></content>
     
     
+    <summary type="html">这是一次用obsidian同步的尝试</summary>
+    
+    
+    
+    <category term="Obsidian" scheme="http://example.com/categories/Obsidian/"/>
     
     
     <category term="try" scheme="http://example.com/tags/try/"/>
